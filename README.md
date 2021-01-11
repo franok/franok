@@ -9,8 +9,6 @@ Languages:
 ![javascript](./resource/badges/js-badge.svg)
 ![LaTeX](./resource/badges/latex-badge.svg)
 
----
-
 Tooling/Technologies:
 
 ![intelliJ](./resource/badges/intellij-badge.svg)
@@ -20,8 +18,6 @@ Tooling/Technologies:
 ![docker](./resource/badges/docker-badge.svg)
 <!-- ![postgresql](./resource/badges/postgres-badge.svg)-->
 <!-- ![postman](./resource/badges/postman-badge.svg)-->
-
----
 
 Platforms:
 
