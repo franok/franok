@@ -34,7 +34,7 @@ My name is Frank (alias _**franok**_).
 I'm a Java Developer and generally interested in software development and any other IT related stuff.
 
 #### Hobbies
-:books: :headphones: :cat2: <sub><sub> <img src="./resource/img/minecraft.png" width="17"/> </sub></sub> :motorcycle:
+:books: :headphones: :cat2: <sub><sub> <img src="./resource/img/minecraft.png" width="17"/> </sub></sub> :motorcycle: :mountain_snow:
 
 #### Fun fact
 My favourite _2020 lockdown activity_: learning to play the harmonica (blues harp).
