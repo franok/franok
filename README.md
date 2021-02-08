@@ -43,7 +43,6 @@ My favourite _2020 lockdown activity_: learning to play the harmonica (blues har
 
 
 
-<!-- Note: If you can see this on https://github.wdf.sap.corp/D062575 this means that the GitHub Profile Readme Feature is active on GH-enterprise! -->
 <!-- Inspired by/icons found at: https://github.com/abhisheknaiidu/awesome-github-profile-readme#badges- -->
 <!-- https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/about-anonymized-image-urls -->
 
