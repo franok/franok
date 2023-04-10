@@ -16,13 +16,12 @@ Tooling/Technologies:
 ![git](./resource/badges/git-badge.svg)
 ![bash](./resource/badges/bash-badge.svg)
 ![docker](./resource/badges/docker-badge.svg)
-<!-- ![postgresql](./resource/badges/postgres-badge.svg)-->
+![postgresql](./resource/badges/postgres-badge.svg)
 <!-- ![postman](./resource/badges/postman-badge.svg)-->
 
 Platforms:
 
 ![linux](./resource/badges/linux-badge.svg)
-![raspberry](./resource/badges/raspberry-pi-badge.svg)
 ![aws](./resource/badges/aws-badge.svg)
 ![GitHub](./resource/badges/github-badge.svg)
 
