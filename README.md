@@ -7,7 +7,7 @@ Languages:
 ![java](./resource/badges/java-badge.svg)
 ![kotlin](./resource/badges/kotlin-badge.svg)
 ![javascript](./resource/badges/js-badge.svg)
-![LaTeX](./resource/badges/latex-badge.svg)
+<!-- ![LaTeX](./resource/badges/latex-badge.svg) -->
 
 Tooling/Technologies:
 
@@ -15,9 +15,8 @@ Tooling/Technologies:
 ![vscode](./resource/badges/vscode-badge.svg)
 ![git](./resource/badges/git-badge.svg)
 ![bash](./resource/badges/bash-badge.svg)
-![docker](./resource/badges/docker-badge.svg)
 ![postgresql](./resource/badges/postgres-badge.svg)
-<!-- ![postman](./resource/badges/postman-badge.svg)-->
+![docker](./resource/badges/docker-badge.svg)
 
 Platforms:
 
